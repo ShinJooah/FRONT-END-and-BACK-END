@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>매우 기본적인 HTML TAG</title>
+    <style>
+      h1{
+        text-align:center;
+        color: deepskyblue;
+        
+      }
+      h5{
+        color : green;
+      }
+    </style>
+    
+    
+  </head>
+  <body>
+    <h1><b>매우 기본적인 HTML_TAG</b></h1>
+    <h5>!DOCTYPE : 문서 타입 (백지)</h5>
+    <h5>TITLE : 페이지의 제목</h5>
+    <h5>H1 ~ H6 : 글자의 크기(숫자가 클수록 글자 크기는 작아짐)</h5>
+    <h5>P : 문단 (태그 위 아래엔 기본적으로 여백이 있음)</h5>
+    <h5>B : 글자 굵기!</h5>
+    <h5>I : 글자 기울기!</h5>
+    <h5>STRONG : 중요하다고 표시, 특수한 목적이 있다고 알려줌(시각 장애인들을 위함)</h5>
+    <h5>EM: 강조하는 것이 목적</h5>
+    <h5>meta charset="utf-8" : 언어가 번역 [여러가지가 있음]</h5>
+  
+      
+  </body>
+</html>
