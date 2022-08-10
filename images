@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>이미지 태그 A_HERF</title>
+    <style>
+      h1{
+        text-align:center;
+
+      }
+    </style>
+    
+    
+  </head>
+  <body>
+    <h1>이미지 태그A_HERF)</h1>
+    <H5>img src= "~~~" 
+width = "600" height = "300"</H5>
+    <H5>a href = "page1/page1.html">page1</a> // 하위 페이지로 간다.</H5>
+    <H5>a href="../index.html">index</a> //상위 페이지로 이동</H5>
+    <H5>a href="../../index.html">index</a> //상위 폴더가 두 개인 경우</H5>
+    <H5>a href="index.html">index</a> //같은 폴더에 있는 경우</H5>
+    <H5>a href=https://www.google.com target="_blank">구글로 링크</a> //새 페이지가 뜸 </H5>
+    
+<img src = "Day 1/IMAGES/images/plant.jpg" alt="My Dog" width = "500" height = "300">
+  <a href="index.html">MAIN
+  </body>
+</html>
